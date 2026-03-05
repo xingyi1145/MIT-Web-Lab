@@ -27,4 +27,4 @@ Each project branch includes its own README with specific details about that pro
 
 ## About MIT Web Lab
 MIT Web Lab is an introductory web development course offered by MIT. It covers HTML, CSS, JavaScript, and server-side programming with Node.js and Express.
-For more information, visit the official course site: [MIT Web Lab][https://site.weblab.is/].
+For more information, visit the official course site: [MIT Web Lab](https://site.weblab.is/).
